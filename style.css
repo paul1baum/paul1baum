@@ -157,6 +157,10 @@ form{
     background-repeat: repeat-x;
 }
 
+.swiper-wrapper{
+  height: auto;
+}
+
 .swiper-slide{
   background: #fff;
   color: #000;
